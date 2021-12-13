@@ -1,6 +1,8 @@
-MIT License
+Doug's Free and Open Source License
 
 Copyright (c) <year> <copyright holders>
+
+$[expires] = <years to expire>;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +13,12 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+The files are not used for either commercial or for-profit purposes. Only
+non-commercial (personal, educational, non-profit, etc) uses are allowed. For
+commercial use, unless the current date is $[expires] years after the Copyright
+year in the most recent version of the LICENSE file, the commercial party must
+reach out to the current copyright holders and negotiate a private license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
