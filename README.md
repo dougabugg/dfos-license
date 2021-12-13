@@ -4,4 +4,6 @@ The license of this git repository is  in `./LICENSE`, and the text of the dfos-
 You can find Doug's email in the git history of this repository.
 
 # TODO
-clean up text after getting some sleep. more TBD.
+clean up text after getting some sleep.
+tools to enable updating the license, configuring parameters, defining commercial use, and default/fallback licenses.
+more TBD.
