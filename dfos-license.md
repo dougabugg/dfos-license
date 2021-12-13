@@ -3,6 +3,7 @@ Doug's Free and Open Source License
 Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
 
 $[expires] = &lt;years to expire&gt;;
+$[contact] = &lt;phone, email, address, etc&gt;;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
