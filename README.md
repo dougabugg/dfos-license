@@ -7,5 +7,7 @@ You can find Doug's email in the git history of this repository.
 clean up text after getting some sleep.
 tools to enable updating the license, configuring parameters, defining commercial use, and default/fallback licenses.
 actually, if you aren't sure if your usage constitutes "non-commercial", just contact the copyright holders for clarification and confirmation.
+If you can expect to be able to convince the copyright holders that your usage is non-commercial, you are probably not asking for confirmation.
+But asking for confirmation just make sure can never hurt.
 
 more TBD.
